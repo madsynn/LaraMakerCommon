@@ -1,0 +1,2 @@
+# LaraMakerCommon
+Package for LaraMaker
